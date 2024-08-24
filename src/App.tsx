@@ -1,6 +1,7 @@
 import './App.css'
 import Header from './Components/Header/Header'
 import Navbar from './Components/Navbar/Navbar'
+import Deals from './Pages/Deals/Deals'
 import Home from './Pages/Home/Home'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Navbar />
       <Home />
+      <Deals/>
     </>
   )
 }

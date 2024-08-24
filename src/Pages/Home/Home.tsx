@@ -39,7 +39,7 @@ export default function Home() {
                     <div className="absolute xl:right-72 right-6 top-[270px]">
                         <img src={image3} alt="" />
                     </div>
-                    <div className="absolute xl:right-80 right-10 top-[250px]">
+                    <div className="absolute xl:right-80 right-10 lg:top-[190px] xl:top-[180px]">
                         <img src={image2} alt="" />
                     </div>
                     <div className="absolute right-0">
