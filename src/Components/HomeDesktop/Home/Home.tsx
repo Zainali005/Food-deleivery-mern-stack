@@ -1,7 +1,7 @@
-import image1 from "../../assets/Home/image 1.png";
-import Logo2 from "../../assets/Home/LOGO 2.png";
-import image2 from "../../assets/Home/Untitled-1 1.png";
-import image3 from "../../assets/Home/Untitled-2 1.png";
+import image1 from "../../../assets/Home/image 1.png";
+import Logo2 from "../../../assets/Home/LOGO 2.png";
+import image2 from "../../../assets/Home/Untitled-1 1.png";
+import image3 from "../../../assets/Home/Untitled-2 1.png";
 
 export default function Home() {
     return (

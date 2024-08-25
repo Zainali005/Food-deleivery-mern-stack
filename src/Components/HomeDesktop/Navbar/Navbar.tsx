@@ -1,5 +1,5 @@
 import { useState } from "react";
-import NavImg from "../../assets/Nav/Navbar.svg";
+import NavImg from "../../../assets/Nav/Navbar.svg";
 import { RiAccountCircleLine, RiMenu3Line, RiCloseLine } from "react-icons/ri";
 
 export default function Navbar() {

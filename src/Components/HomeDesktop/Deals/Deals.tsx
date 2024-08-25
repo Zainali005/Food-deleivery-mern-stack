@@ -1,6 +1,6 @@
-import Deal1 from "../../assets/Deals/Group 10.png";
-import Deal2 from "../../assets/Deals/Group 11.png";
-import Deal3 from "../../assets/Deals/Group 12.png";
+import Deal1 from "../../../assets/Deals/Group 10.png";
+import Deal2 from "../../../assets/Deals/Group 11.png";
+import Deal3 from "../../../assets/Deals/Group 12.png";
 
 export default function Deals() {
     return (
